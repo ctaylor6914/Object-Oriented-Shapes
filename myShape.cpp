@@ -6,7 +6,6 @@
 
 /*
 *	FILE			: myShape.cpp
-*	PROJECT			: Assignment8
 *	PROGRAMMER		: Mita Das & Colby Taylor
 *	FIRST VERSION	: 2021-04-24
 *	DESCRIPTION		: This program performs overloaded operator operations for
