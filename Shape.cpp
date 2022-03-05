@@ -2,7 +2,6 @@
 
 /*
 *	FILE			: Square.cpp
-*	PROJECT			: Assignment8
 *	PROGRAMMER		: Mita Das & Colby Taylor
 *	DESCRIPTION		: This file has all of the function definitions of
 *                     Shape class.
